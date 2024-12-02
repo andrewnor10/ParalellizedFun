@@ -3,3 +3,5 @@ https://cs111.byu.edu/articles/pair-programming/
 https://cs.byu.edu/
 https://www.google.com/
 https://www.microsoft.com/
+
+Phase 6 6 numbers 1-6 in the right order

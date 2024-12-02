@@ -60,7 +60,7 @@ for thread in threads:
   thread.start()
 for thread in threads:
   thread.join
-# callOtherFunctions()
+callOtherFunctions()
 elapsed = time.time() - start_time
 print (elapsed)   
 

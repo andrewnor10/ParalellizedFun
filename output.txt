@@ -1,113 +1,1261 @@
 
 
-https://www.microsoft.com
-https://www.microsoft.com/microsoft-365
-https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
-https://copilot.microsoft.com/
-https://www.microsoft.com/en-us/windows/
-https://www.microsoft.com/en-us/surface
-https://www.xbox.com/
-https://www.microsoft.com/en-us/store/b/sale?icid=gm_nav_L0_salepage
-https://www.microsoft.com/en-us/store/b/business
-https://support.microsoft.com/en-us
-https://products.office.com/en-us/home
-https://www.microsoft.com/en-us/windows/
-https://www.microsoft.com/en-us/surface
-https://www.xbox.com/
-https://www.microsoft.com/en-us/store/b/sale?icid=gm_nav_L0_salepage
-https://support.microsoft.com/en-us
-https://www.microsoft.com/en-us/store/apps/windows?icid=CNavAppsWindowsApps
-https://onedrive.live.com/about/en-us/
-https://outlook.live.com/owa/
-https://www.skype.com/en/
-https://www.onenote.com/
-https://products.office.com/en-us/microsoft-teams/free?icid=SSM_AS_Promo_Apps_MicrosoftTeams
-https://www.microsoft.com/edge
-https://www.microsoft.com/en-us/store/b/pc?icid=CNavDevicesPC
-https://www.microsoft.com/en-us/store/b/xbox?icid=CNavDevicesXbox
-https://www.microsoft.com/en-us/store/b/accessories?icid=CNavDevicesAccessories
-https://www.microsoft.com/en-us/store/b/virtualreality?icid=CNavVirtualReality
-https://www.microsoft.com/en-us/store/b/mobile?icid=CNavDevicesMobile
-https://www.microsoft.com/en-us/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate
-https://www.microsoft.com/en-us/p/xbox-live-gold/cfq7ttc0k5dj?WT.mc_id=CNavGamesXboxLiveGold
-https://www.microsoft.com/en-us/store/b/xbox?icid=CNavDevicesXbox
-https://www.microsoft.com/en-us/store/games/windows?icid=CNavGamesWindowsGames
-https://www.microsoft.com/en-us/store/games/windows?icid=TopNavWindowsGames
-https://www.microsoft.com/en-us/store/movies-and-tv?icid=TopNavMoviesTv
-https://azure.microsoft.com/en-us/
-https://www.microsoft.com/en-us/dynamics365/home
-https://www.microsoft.com/en-us/microsoft-365
-https://www.microsoft.com/en-us/enterprise
-https://www.microsoft.com/en-us/sql-server/
-https://go.microsoft.com/fwlink/?linkid=2026638
-https://www.microsoft.com/licensing/default
-https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore
-https://www.microsoft.com/net/
-https://visualstudio.microsoft.com/
-https://www.microsoft.com/cloud-platform/windows-server
-https://developer.microsoft.com/en-us/windows
-https://docs.microsoft.com/en-us/
-https://www.microsoft.com/rewards
-https://www.microsoft.com/en-us/download/default.aspx
-https://www.microsoft.com/en-us/education?icid=CNavMSCOML0_Studentsandeducation
-https://www.microsoft.com/en-us/store/locations/find-a-store?icid=TopNavStoreLocations
-https://www.microsoft.com/en-us/store/b/gift-cards
-https://www.microsoft.com/en-us/sitemap.aspx
-http://www.microsoft.com/en/us/default.aspx?redir=true
-https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz
-https://www.microsoft.com/en-us/d/Surface-Laptop-Go-3/8p0wwgj6c6l2
-https://www.microsoft.com/en-us/d/surface-pro-9/93VKD8NP4FVK?activetab=pivot:overviewtab
-https://www.microsoft.com/en-us/d/surface-laptop-5/8XN49V61S1BN?activetab=pivot:overviewtab
-https://www.microsoft.com/en-us/microsoft-copilot
-https://www.microsoft.com/en-us/windows/copilot-ai-features?r=1
-https://www.microsoft.com/en-us/microsoft-365
-https://www.microsoft.com/en-us/windows/windows-11-apps
-https://account.microsoft.com/
-https://www.microsoft.com/en-us/download
-https://support.microsoft.com/en-us/microsoft-store-and-billing?ocid=MS_Footer_StoreSupport
-https://www.microsoft.com/en-us/store/b/returns
-https://account.microsoft.com/orders
-https://www.microsoft.com/en-us/store/b/certified-refurbished-products
-https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020
-https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc
-https://www.microsoft.com/en-us/education
-https://www.microsoft.com/en-us/education/devices/overview
-https://www.microsoft.com/en-us/education/products/teams
-https://www.microsoft.com/en-us/education/products/microsoft-365
-https://www.microsoft.com/en-us/education/how-to-buy
-https://learn.microsoft.com/en-us/training/educator-center/?source=mec
-https://www.microsoft.com/en-us/store/b/education
-https://azure.microsoft.com/en-us/free/students/
-https://www.microsoft.com/en-us/microsoft-cloud
-https://www.microsoft.com/en-us/security
-https://www.microsoft.com/en-us/dynamics-365
-https://www.microsoft.com/en-us/microsoft-365/business
-https://www.microsoft.com/en-us/power-platform
-https://www.microsoft.com/en-us/microsoft-teams/group-chat-software
-https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365
-https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore
-https://azure.microsoft.com/en-us/
-https://developer.microsoft.com/en-us/
-https://learn.microsoft.com/en-us/docs/
-https://learn.microsoft.com/en-us/
-https://techcommunity.microsoft.com/
-https://azuremarketplace.microsoft.com/en-us/
-https://appsource.microsoft.com/en-us/
-https://visualstudio.microsoft.com/
-https://careers.microsoft.com/
-https://www.microsoft.com/en-us/about
-https://news.microsoft.com/
-https://privacy.microsoft.com/en-us
-https://www.microsoft.com/investor/default.aspx
-https://www.microsoft.com/en-us/diversity/
-https://www.microsoft.com/en-us/accessibility
-https://www.microsoft.com/en-us/sustainability/
-http://www.microsoft.com/en-us/locale.aspx
-https://www.microsoft.com/en-us/sitemap1.aspx
-https://support.microsoft.com/contactus
-https://go.microsoft.com/fwlink/?LinkId=521839
-https://go.microsoft.com/fwlink/?LinkID=206977
-https://www.microsoft.com/trademarks
-https://www.microsoft.com/en-us/devices/safety-and-eco
-https://www.microsoft.com/en-us/legal/compliance/recycling
-https://choice.microsoft.com
+
+
+
+
+
+BYU CS Department - Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+College of Computational, Mathematical, and Physical Sciences
+Computer Science
+
+
+
+Log In
+
+
+
+
+
+
+
+
+
+
+
+Student Education
+
+
+
+
+Undergraduate
+
+                        Future Course Offerings
+                      
+
+                        Resources & FAQs
+                      
+Minors
+
+                          Computer Science Minor
+                        
+
+                          CS Teaching Minor
+                        
+Undergrad Programs (BS)
+
+                          About Our Programs
+                        
+
+                          Computer Science
+                        
+
+                          CS: Animation & Games
+                        
+
+                          CS: Bioinformatics
+                        
+
+                          CS: Software Engineering
+                        
+
+                          CS: Machine Learning
+                        
+
+
+Graduate
+
+                        Future Course Offerings
+                      
+
+                        Apply for Graduate Program
+                      
+Master's Program (MS)
+
+                          About Computer Science MS
+                        
+
+                          Master's Program Forms
+                        
+Doctorate Program (PhD)
+
+                          About Computer Science PhD
+                        
+
+                          Doctorate Program Forms
+                        
+
+                          Dissertation Resources
+                        
+
+
+Advisement
+
+                        Contact an Academic Advisor
+                      
+
+                        Meet with a Peer Mentor
+                      
+
+                        BYU Academic Calendar
+                      
+
+                        Planning Courses (MyMap)
+                      
+Financial Assistance
+
+                        Scholarships for Undergraduates
+                      
+
+                        Graduate Financial Aid
+                      
+
+
+Resources
+
+                        Inclusion, Diversity, & Equity
+                      
+
+                        International Students
+                      
+
+                        University Accessibility Center
+                      
+
+                        Meet with a Tutor
+                      
+
+                        Need Help?
+                      
+
+
+
+
+
+Student Employment
+
+
+
+
+Opportunities
+
+                        About On-Campus Jobs
+                      
+
+                        TA Job Openings
+                      
+
+                        Research Lab Openings
+                      
+
+                        Internships
+                      
+
+
+Career Resources
+
+                        Contact a Career Advisor
+                      
+
+                        About On-Campus Jobs
+                      
+
+                        Join BYU Handshake
+                      
+
+                        Resume & Cover Letter Help
+                      
+
+                        About the STEM Fair
+                      
+
+
+
+
+
+Community
+
+
+
+
+Students
+
+                        Clubs
+                      
+
+                        Inclusion, Diversity, & Equity
+                      
+
+                        International Students
+                      
+
+                        Student Demographics
+                      
+
+                        Student Awards
+                      
+
+
+Alumni
+
+                        How to Get Involved
+                      
+
+                        Alumni Awards
+                      
+Companies
+
+                        Partner With Us
+                      
+
+                        Recruit Our Students
+                      
+
+                        Sponsor a Capstone
+                      
+
+                        Join BYU Handshake
+                      
+
+                        Join BYU Connect
+                      
+
+                        Contact Us
+                      
+
+
+
+
+
+Department
+
+
+
+
+About
+
+                        About Us
+                      
+
+                        Faculty/Staff Directory
+                      
+
+                        Advisory Board
+                      
+
+                        Alumni Council
+                      
+
+                        Position Openings for Faculty/Staff
+                      
+
+                        Contact Us
+                      
+Research
+
+                        About Our Research
+                      
+
+                        Research Labs
+                      
+
+
+
+
+
+Events & News
+
+
+
+
+Events
+
+                        Upcoming Events
+                      
+
+                        Seminar Series
+                      
+
+                        About the STEM Fair
+                      
+News
+
+                        Recent News
+                      
+
+                        Student Awards
+                      
+
+
+
+
+Donate
+E-Store
+
+
+
+
+
+
+
+
+
+
+
+
+
+College of Computational, Mathematical, and Physical Sciences
+Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log In
+
+
+
+
+
+
+
+Student Education
+
+Undergraduate
+
+
+
+
+
+Back
+
+
+
+Undergraduate
+
+
+                    Future Course Offerings
+                  
+
+
+
+                    Resources & FAQs
+                  
+
+Minors
+
+
+                      Computer Science Minor
+                    
+
+
+
+                      CS Teaching Minor
+                    
+
+Undergrad Programs (BS)
+
+
+                      About Our Programs
+                    
+
+
+
+                      Computer Science
+                    
+
+
+
+                      CS: Animation & Games
+                    
+
+
+
+                      CS: Bioinformatics
+                    
+
+
+
+                      CS: Software Engineering
+                    
+
+
+
+                      CS: Machine Learning
+                    
+
+
+
+
+Graduate
+
+
+
+
+
+Back
+
+
+
+Graduate
+
+
+                    Future Course Offerings
+                  
+
+
+
+                    Apply for Graduate Program
+                  
+
+Master's Program (MS)
+
+
+                      About Computer Science MS
+                    
+
+
+
+                      Master's Program Forms
+                    
+
+Doctorate Program (PhD)
+
+
+                      About Computer Science PhD
+                    
+
+
+
+                      Doctorate Program Forms
+                    
+
+
+
+                      Dissertation Resources
+                    
+
+
+
+
+Advisement
+
+
+
+
+
+Back
+
+
+
+Advisement
+
+
+                    Contact an Academic Advisor
+                  
+
+
+
+                    Meet with a Peer Mentor
+                  
+
+
+
+                    BYU Academic Calendar
+                  
+
+
+
+                    Planning Courses (MyMap)
+                  
+
+
+
+
+Financial Assistance
+
+
+
+
+
+Back
+
+
+
+Financial Assistance
+
+
+                    Scholarships for Undergraduates
+                  
+
+
+
+                    Graduate Financial Aid
+                  
+
+
+
+
+Resources
+
+
+
+
+
+Back
+
+
+
+Resources
+
+
+                    Inclusion, Diversity, & Equity
+                  
+
+
+
+                    International Students
+                  
+
+
+
+                    University Accessibility Center
+                  
+
+
+
+                    Meet with a Tutor
+                  
+
+
+
+                    Need Help?
+                  
+
+
+
+
+
+
+Student Employment
+
+Opportunities
+
+
+
+
+
+Back
+
+
+
+Opportunities
+
+
+                    About On-Campus Jobs
+                  
+
+
+
+                    TA Job Openings
+                  
+
+
+
+                    Research Lab Openings
+                  
+
+
+
+                    Internships
+                  
+
+
+
+
+Career Resources
+
+
+
+
+
+Back
+
+
+
+Career Resources
+
+
+                    Contact a Career Advisor
+                  
+
+
+
+                    About On-Campus Jobs
+                  
+
+
+
+                    Join BYU Handshake
+                  
+
+
+
+                    Resume & Cover Letter Help
+                  
+
+
+
+                    About the STEM Fair
+                  
+
+
+
+
+
+
+Community
+
+Students
+
+
+
+
+
+Back
+
+
+
+Students
+
+
+                    Clubs
+                  
+
+
+
+                    Inclusion, Diversity, & Equity
+                  
+
+
+
+                    International Students
+                  
+
+
+
+                    Student Demographics
+                  
+
+
+
+                    Student Awards
+                  
+
+
+
+
+Alumni
+
+
+
+
+
+Back
+
+
+
+Alumni
+
+
+                    How to Get Involved
+                  
+
+
+
+                    Alumni Awards
+                  
+
+
+
+
+Companies
+
+
+
+
+
+Back
+
+
+
+Companies
+
+
+                    Partner With Us
+                  
+
+
+
+                    Recruit Our Students
+                  
+
+
+
+                    Sponsor a Capstone
+                  
+
+
+
+                    Join BYU Handshake
+                  
+
+
+
+                    Join BYU Connect
+                  
+
+
+
+                    Contact Us
+                  
+
+
+
+
+
+
+Department
+
+About
+
+
+
+
+
+Back
+
+
+
+About
+
+
+                    About Us
+                  
+
+
+
+                    Faculty/Staff Directory
+                  
+
+
+
+                    Advisory Board
+                  
+
+
+
+                    Alumni Council
+                  
+
+
+
+                    Position Openings for Faculty/Staff
+                  
+
+
+
+                    Contact Us
+                  
+
+
+
+
+Research
+
+
+
+
+
+Back
+
+
+
+Research
+
+
+                    About Our Research
+                  
+
+
+
+                    Research Labs
+                  
+
+
+
+
+
+
+Events & News
+
+Events
+
+
+
+
+
+Back
+
+
+
+Events
+
+
+                    Upcoming Events
+                  
+
+
+
+                    Seminar Series
+                  
+
+
+
+                    About the STEM Fair
+                  
+
+
+
+
+News
+
+
+
+
+
+Back
+
+
+
+News
+
+
+                    Recent News
+                  
+
+
+
+                    Student Awards
+                  
+
+
+
+
+
+
+Donate
+E-Store
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BYU CS Student's Research Helps Texas Rangers Win 2023 World Series
+
+
+            Will Melville, a PhD student in the BYU Computer Science Department, works as an analyst with the Texas Rangers. The Texas Rangers desire to strengthen their defense led him to research new defensive positioning strategies. The Rangers won the World Series in November 2023 using a version of Melville’s model to position their outfielders, and this year they are using the model to position the infielders as well.
+
+Melville was presented a World Series Ring for his contribution.
+          
+
+Learn More
+
+
+
+
+
+
+
+
+
+
+
+Upcoming Events
+
+
+Nov
+21
+Thu
+
+
+Weekly Seminar: Hua Wei
+
+11 a.m.
+ - 
+noon
+TMCB 1170
+
+
+
+
+
+Nov
+27
+Wed
+
+
+No Classes
+
+
+ - 
+
+
+
+
+
+
+
+Nov
+28
+Thu
+
+
+Thanksgiving Holiday
+
+Nov
+28
+
+ - 
+Nov
+29
+
+BYU CS Office Closed
+
+
+
+
+See all events
+
+Academic Calendar
+
+
+
+
+
+News
+
+
+
+
+
+
+
+Featured News
+
+
+
+
+
+
+
+Weekly Seminar: Hua Wei
+
+
+
+
+
+
+
+
+
+Weekly Seminar: Mckell Woodland
+
+
+
+
+
+
+
+
+
+Weekly Seminar: Amy Williams
+
+
+
+
+
+
+
+
+
+Weekly Seminar: Philipp Koehn
+
+
+
+
+
+
+
+
+
+Weekly Seminar: Nathaniel Bennett
+
+
+
+
+
+
+
+See All News
+
+
+
+
+
+
+
+
+
+
+
+
+Social Media 
+ 
+Connect with us on social media 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+BYU Computer Science (@byu.cs) • Instagram
+
+
+
+
+
+BYU Computer Science
+
+
+
+
+
+
+@byu.cs
+
+
+
+
+
+
+
+
+
+Student Stories
+
+
+          Computer Science at BYU has helped me achieve my dream job even before graduating. It has also helped me to be involved in an amazing campus and tremendous clubs with some of the best students, faculty, and advisors. I haven't yet created impactful and influential software that helps people all over the world but connecting with some of the brightest students in the world and getting into a company where you can find some of the brightest engineers is a step closer to achieving that goal.
+        
+
+Ignacio
+          CS Major from Uruguay.
+        
+
+
+
+          I had no coding experience before coming to BYU, so I have really learned a lot in all the CS classes I have taken. Now I am a proficient coder who is ready to enter the workforce!
+        
+
+Adam
+          Senior from California.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Undergraduate Program
+Learn everything you need to know about our undergraduate program below.
+
+Requirements
+Courses
+Scholarships
+
+
+
+
+
+Graduate Program
+We offer both a Masters and a PhD program in computer science. These research driven programs are perfect to accelerate your career & research.
+
+Masters
+PhD
+Scholarships
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+3361 Talmage Math & Computer Science Building
+
+      Email: csoffice@cs.byu.edu
+
+Phone: (801) 422-3027
+
+
+Favorites
+Donate
+Directory
+Our Research
+College of Computational, Mathematical, and Physical Sciences
+
+
+Additional Links
+CS Account Help
+HBLL CS Research Resources
+Give Feedback
+CS E-Store
+
+
+Social Links
+CS Link Tree
+
+
+
+
+Instagram page
+
+
+
+
+
+
+Facebook page
+
+
+
+
+
+
+TikTok page
+
+
+
+
+
+
+
+
+
+
+                                                                                                        MicrosoftInvestorsDiversity
+                                                                                                                and
+                                                                                                                inclusionAccessibilitySustainabilityEnglish
+                                                                                (United
+                                                                                States)SitemapContact
+                                                                                                        MicrosoftPrivacy
+                                                                                                        Terms
+                                                                                                        of
+                                                                                                        useTrademarksSafety
+                                                                                                        &
+                                                                                                        ecoRecycling
+                                                                                                        About
+                                                                                                        our
+                                                                                                        ads©
+                                                                                                Microsoft
+                                                                                                2024.303
+
